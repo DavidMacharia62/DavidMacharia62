@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @DavidMacharia62
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects
+#DAVID MACHARIA
+##Software Engineer
+
+- 👋 Hi, I’m David Macharia
+- 👀 I’m interested in programming and am currently a Software Engineering student.
+- 🌱 I’m proficient in python, HTML, CSS, C, JavaScript, SQL
+- 💞️ I’m working on projects that will have a positive impact.
 - 📫 How to reach me email: davidmacharia1@gmail.com
 
 <!---
