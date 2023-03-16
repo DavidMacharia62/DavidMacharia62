@@ -1,5 +1,5 @@
-#DAVID MACHARIA
-##Software Engineer
+# DAVID MACHARIA
+## Software Engineer
 
 - 👋 Hi, I’m David Macharia
 - 👀 I’m interested in programming and am currently a Software Engineering student.
